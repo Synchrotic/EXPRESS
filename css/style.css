@@ -67,8 +67,8 @@ figure {
   position: relative; }
 
 #colorlib-aside {
-  padding-top: 3em;
-  padding-bottom: 40px;
+  padding-top: 2em;
+  padding-bottom: 50px;
   float: left;
   width: 300px;
   position: fixed;
@@ -229,7 +229,7 @@ figure {
   background: #fff url(../images/loader.gif) no-repeat center center;
   width: 100%;
   float: left;
-  margin-bottom: 10em;
+  margin-bottom: 12em;
   clear: both; }
   #colorlib-hero .flexslider {
     border: none;
@@ -272,8 +272,8 @@ figure {
       display: none; }
     #colorlib-hero .flexslider .slider-text {
       display: table;
-      opacity: 0;
-      min-height: 500px;
+      opacity: 100;
+      min-height: 5px;
       z-index: 9; }
       #colorlib-hero .flexslider .slider-text > .slider-text-inner {
         display: table-cell;
@@ -390,6 +390,7 @@ body.offcanvas {
     .colorlib-contact {
       padding-top: 5em;
       padding-bottom: 8em; } }
+      
 
 .author-img {
   background-size: cover;
